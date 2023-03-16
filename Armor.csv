@@ -1,0 +1,14 @@
+Armor,Cost,Armor Class (AC),Strength,Stealth,Weight
+Padded Light,5,11 + Dex Modifier,,Disadvantage,8
+Light,10,11 + Dex Modifier,,,10
+Studded Light,45,12 + Dex Modifier,,,13
+Medium,10,12 + Dex Modifier (Max 2),,,12
+Chain Shirt,50,13 + Dex Modifier (Max 2),,,20
+Scale Mail,50,14 + Dex Modifier (Max 2),,Disadvantage,45
+Breastplate,400,14 + Dex Modifier (Max 2),,,20
+Half Plate,750,15 + Dex Modifier (Max 2),,Disadvantage,40
+Ring Mail,30,14,,Disadvantage,40
+Chain Mail,75,16,Str 13,Disadvantage,55
+Splint,200,17,Str 15,Disadvantage,60
+Plate,1500,18,Str 15,Disadvantage,65
+Shield,10,+2,,,6
